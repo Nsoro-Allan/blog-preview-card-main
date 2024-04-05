@@ -8,4 +8,9 @@
 
 body{
     font-family: "Figtree", sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: hsl(47, 88%, 63%);
 }
