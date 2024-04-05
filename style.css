@@ -118,3 +118,10 @@ html{
     margin-left: 10px;
 }
 
+/* Responsiveness Starts Here */
+@media screen and (min-width: 200px) and (max-width: 1000px) {
+    .main-container{
+        width: 80%;
+    }
+}
+
